@@ -1,0 +1,3 @@
+i200792 - Hasan Murad - Made the footer and seperate yml file for their branch
+i200489 - Salis Salman - Made the navigation bar and seperate yml file for their branch
+i200526 - Moeez Ali Mazhar - Made the middle section of the index.html page and seperate yml file for their branch
